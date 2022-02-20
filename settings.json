@@ -7,8 +7,8 @@
     "Play Game": {
         "Mode": "dice",
         "Demo Mode": "OFF",
-        "Currency": "btt",
-        "Show Price": "off",
+        "Currency": "trx",
+        "Show Price": "on",
         "Delay Bet(ms)": "0"
     },
     "Target": {
@@ -34,7 +34,7 @@
         "Tip Username": "devpas91",
         "Wallet": {
             "Is Faucetpay": "False",
-            "Address": "TTtGDWyET9kCAN53S51ZnKoZoYsKkNF4Pi"
+            "Address": ""
         }
     },
     "Auto Remove History": {
@@ -56,8 +56,8 @@
         }
     },
     "Bet Amount": {
-        "Base": "0.0001",
-        "Preroll Bet": "0.0001",
+        "Base": "0.000001",
+        "Preroll Bet": "0.00000001",
         "Shoot Bet": "1",
         "Auto Shoot": {
             "Status": "OFF",
@@ -71,7 +71,7 @@
     },
     "Betset": {
         "Sicepat": {
-            "Toggle": "ON",
+            "Toggle": "OFF",
             "Profit Reset": "0.00000001",
             "Chance Win": {
                 "Min": "90",
@@ -83,18 +83,18 @@
             }
         },
         "Sigesit": {
-            "Toggle": "OFF",
+            "Toggle": "ON",
             "Profit Reset": "0.00000001",
-            "Cut Lose": "10",
-            "Preroll": "10",
-            "Multipler": "1.27",
+            "Cut Lose": "35",
+            "Preroll": "30",
+            "Multipler": "1.056",
             "Chance Win": {
-                "Min": "56",
-                "Max": "58"
+                "Min": "49",
+                "Max": "49"
             },
             "Chance Lose": {
-                "Min": "10",
-                "Max": "12"
+                "Min": "3",
+                "Max": "5"
             }
         },
         "Marti": {
