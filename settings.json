@@ -19,13 +19,13 @@
     },
     "Stopwin": {
         "On Profit": "False",
-        "If Maxbet": "0.1",
+        "If Maxbet": "1",
         "If Balance Drop (%)": "0",
         "After LS": "0"
     },
     "Repeat Play": {
         "Status": "ON",
-        "Delay (sec)": "5"
+        "Delay (sec)": "2"
     },
     "Auto WD": {
         "Status": "OFF",
@@ -56,7 +56,7 @@
         }
     },
     "Bet Amount": {
-        "Base": "0.000001",
+        "Base": "0.0001",
         "Preroll Bet": "0.000001",
         "Shoot Bet": "1",
         "Auto Shoot": {
@@ -100,11 +100,11 @@
         "Marti": {
             "Toggle": "ON",
             "Chance": {
-                "Min": "44",
-                "Max": "47"
+                "Min": "34",
+                "Max": "37"
             },
-            "If Win": "2.35",
-            "If Lose": "1.02",
+            "If Win": "0.395",
+            "If Lose": "1.391",
             "Reset if profit": "0.00000001",
             "Reset if win": "3",
             "Reset if lose": "0",
