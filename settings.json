@@ -56,7 +56,7 @@
         }
     },
     "Bet Amount": {
-        "Base": "0.0001",
+        "Base": "0.00001",
         "Preroll Bet": "0.000001",
         "Shoot Bet": "1",
         "Auto Shoot": {
@@ -103,10 +103,10 @@
                 "Min": "34",
                 "Max": "37"
             },
-            "If Win": "0.395",
-            "If Lose": "1.391",
+            "If Win": "0.35",
+            "If Lose": "1.491",
             "Reset if profit": "0.00000001",
-            "Reset if win": "3",
+            "Reset if win": "2",
             "Reset if lose": "0",
             "Reset if maxbet": "0"
         },
