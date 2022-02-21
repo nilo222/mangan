@@ -18,14 +18,14 @@
         "Lose": "0"
     },
     "Stopwin": {
-        "On Profit": "True",
-        "If Maxbet": "0",
+        "On Profit": "False",
+        "If Maxbet": "0.1",
         "If Balance Drop (%)": "0",
         "After LS": "0"
     },
     "Repeat Play": {
-        "Status": "OFF",
-        "Delay (sec)": "600"
+        "Status": "ON",
+        "Delay (sec)": "5"
     },
     "Auto WD": {
         "Status": "OFF",
@@ -48,15 +48,15 @@
         "After Play (min)": "60"
     },
     "Bet Roll": {
-        "Bet High": "False",
+        "Bet High": "True",
         "Hi / Low": {
-            "Toggle": "OFF",
-            "If Lose": "1",
+            "Toggle": "ON",
+            "If Lose": "2",
             "If Win": "1"
         }
     },
     "Bet Amount": {
-        "Base": "0.00001",
+        "Base": "0.000001",
         "Preroll Bet": "0.000001",
         "Shoot Bet": "1",
         "Auto Shoot": {
@@ -83,7 +83,7 @@
             }
         },
         "Sigesit": {
-            "Toggle": "ON",
+            "Toggle": "OFF",
             "Profit Reset": "0.00000001",
             "Cut Lose": "35",
             "Preroll": "30",
@@ -103,10 +103,10 @@
                 "Min": "44",
                 "Max": "47"
             },
-            "If Win": "1.1",
-            "If Lose": "1.9",
-            "Reset if profit": "0.0002",
-            "Reset if win": "2",
+            "If Win": "2.35",
+            "If Lose": "1.02",
+            "Reset if profit": "0.00000001",
+            "Reset if win": "3",
             "Reset if lose": "0",
             "Reset if maxbet": "0"
         },
