@@ -1,7 +1,7 @@
 {
     "License": "contact @safarsyam",
     "Account": {
-        "Username": "xx",
+        "Username": "x",
         "Password": "xx"
     },
     "Play Game": {
@@ -12,7 +12,7 @@
         "Delay Bet(ms)": "0"
     },
     "Target": {
-        "Profit (amt)": "0.0001",
+        "Profit (amt)": "0.001",
         "Profit (%)": "10",
         "Balance": "0",
         "Lose": "0"
@@ -56,7 +56,7 @@
         }
     },
     "Bet Amount": {
-        "Base": "0.000005",
+        "Base": "0.00001",
         "Preroll Bet": "0.000001",
         "Shoot Bet": "50",
         "Auto Shoot": {
@@ -100,11 +100,11 @@
         "Marti": {
             "Toggle": "ON",
             "Chance": {
-                "Min": "55",
+                "Min": "47",
                 "Max": "57"
             },
-            "If Win": "3.75",
-            "If Lose": "1.75",
+            "If Win": "1.975",
+            "If Lose": "2.85",
             "Reset if profit": "0.00000001",
             "Reset if win": "2",
             "Reset if lose": "0",
