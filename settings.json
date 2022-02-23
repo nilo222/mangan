@@ -12,7 +12,7 @@
         "Delay Bet(ms)": "0"
     },
     "Target": {
-        "Profit (amt)": "0.001",
+        "Profit (amt)": "0.0001",
         "Profit (%)": "10",
         "Balance": "0",
         "Lose": "0"
@@ -103,10 +103,10 @@
                 "Min": "55",
                 "Max": "57"
             },
-            "If Win": "1.5",
-            "If Lose": "3.5",
+            "If Win": "3.75",
+            "If Lose": "1.75",
             "Reset if profit": "0.00000001",
-            "Reset if win": "1",
+            "Reset if win": "2",
             "Reset if lose": "0",
             "Reset if maxbet": "0"
         },
