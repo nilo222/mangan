@@ -7,25 +7,25 @@
     "Play Game": {
         "Mode": "dice",
         "Demo Mode": "OFF",
-        "Currency": "BTT",
+        "Currency": "TRX",
         "Show Price": "ON",
         "Delay Bet(ms)": "0"
     },
     "Target": {
-        "Profit (amt)": "0",
+        "Profit (amt)": "0.001",
         "Profit (%)": "10",
         "Balance": "0",
         "Lose": "0"
     },
     "Stopwin": {
-        "On Profit": "True",
-        "If Maxbet": "0",
+        "On Profit": "False",
+        "If Maxbet": "0.1",
         "If Balance Drop (%)": "0",
         "After LS": "0"
     },
     "Repeat Play": {
-        "Status": "OFF",
-        "Delay (sec)": "900"
+        "Status": "ON",
+        "Delay (sec)": "2"
     },
     "Auto WD": {
         "Status": "OFF",
@@ -34,7 +34,7 @@
         "Tip Username": "please edit this with your pasino username, leave it blank if want to WD to wallet",
         "Wallet": {
             "Is Faucetpay": "False",
-            "Address": "TTtGDWyET9kCAN53S51ZnKoZoYsKkNF4Pi"
+            "Address": ""
         }
     },
     "Auto Remove History": {
@@ -56,7 +56,7 @@
         }
     },
     "Bet Amount": {
-        "Base": "0.1",
+        "Base": "0.000005",
         "Preroll Bet": "0.000001",
         "Shoot Bet": "50",
         "Auto Shoot": {
@@ -100,13 +100,13 @@
         "Marti": {
             "Toggle": "ON",
             "Chance": {
-                "Min": "43",
-                "Max": "43"
+                "Min": "55",
+                "Max": "57"
             },
-            "If Win": "1",
-            "If Lose": "2",
-            "Reset if profit": "0.2",
-            "Reset if win": "0",
+            "If Win": "1.5",
+            "If Lose": "3.5",
+            "Reset if profit": "0.00000001",
+            "Reset if win": "1",
             "Reset if lose": "0",
             "Reset if maxbet": "0"
         },
