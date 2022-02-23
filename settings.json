@@ -100,7 +100,7 @@
         "Marti": {
             "Toggle": "ON",
             "Chance": {
-                "Min": "52",
+                "Min": "50.25",
                 "Max": "57"
             },
             "If Win": "1.975",
