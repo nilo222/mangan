@@ -12,14 +12,14 @@
         "Delay Bet(ms)": "0"
     },
     "Target": {
-        "Profit (amt)": "0.001",
+        "Profit (amt)": "0.01",
         "Profit (%)": "10",
         "Balance": "0",
         "Lose": "0"
     },
     "Stopwin": {
-        "On Profit": "False",
-        "If Maxbet": "0.1",
+        "On Profit": "True",
+        "If Maxbet": "0.002",
         "If Balance Drop (%)": "0",
         "After LS": "0"
     },
@@ -56,7 +56,7 @@
         }
     },
     "Bet Amount": {
-        "Base": "0.00001",
+        "Base": "0.00009",
         "Preroll Bet": "0.000001",
         "Shoot Bet": "50",
         "Auto Shoot": {
@@ -83,22 +83,22 @@
             }
         },
         "Sigesit": {
-            "Toggle": "OFF",
+            "Toggle": "ON",
             "Profit Reset": "0.0000001",
-            "Cut Lose": "10",
-            "Preroll": "10",
-            "Multipler": "1.25",
+            "Cut Lose": "7",
+            "Preroll": "3",
+            "Multipler": "2.18",
             "Chance Win": {
-                "Min": "69",
-                "Max": "69"
+                "Min": "55",
+                "Max": "55"
             },
             "Chance Lose": {
-                "Min": "9",
-                "Max": "12"
+                "Min": "45.25",
+                "Max": "50.75"
             }
         },
         "Marti": {
-            "Toggle": "ON",
+            "Toggle": "OFF",
             "Chance": {
                 "Min": "50.25",
                 "Max": "57"
